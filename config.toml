@@ -92,12 +92,12 @@ weight = 4
 ########################### Default parameters ##########################
 [params]
 logo = "images/logo.png"
-logo_width = "100px"
+logo_width = "200px"
 # Meta data
 description = "Torento Engineering (PVT) Ltd, Shoe Machinery, Cutting Dies"
 author = "Themefisher"
 # currency
-currency = "$"
+currency = "LKR"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # snipcart public api key
