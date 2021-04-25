@@ -1,5 +1,5 @@
 ################################### Default Configuration ############################
-baseurl = ""
+baseurl = "https://demo.torento.biz"
 title = "Vex | hugo landing page template"
 # theme = "vex-hugo"
 # post excert
