@@ -5,7 +5,7 @@ title = "Torento Engineering (PVT) Ltd"
 # post excert
 summarylength = "20"
 # google analytics
-googleAnalytics = "" # Ex: UA-123-45
+googleAnalytics = "UA-27340941-1" # Ex: UA-123-45
 # disable language
 disableLanguages = ["fr"] # disable language from here
 
