@@ -7,7 +7,7 @@ brew install hugo
 
 ## Run Hugo server
 ```sh
-hugo serve
+hugo server
 ```
 
 ## Web server
