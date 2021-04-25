@@ -3,23 +3,21 @@ title: "Contact"
 description : "this is a meta description"
 
 office:
-  title : "Central Office"
-  mobile : "0124857985320"
-  email : "demo@email.com"
-  location : "Dhaka, Bangladedsh"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna"
+  title : "Headquarters"
+  mobile : "+94 112 972433, +94 115 670231"
+  email : "info@torento.biz"
+  location : "2A Weboda East, Weboda, Sri Lanka, 11858"
+  content : "We are located at:"
 
 # opennig hour
 opennig_hour:
   title : "Opening Hours"
   day_time:
-    - "Monday: 9:00 – 19:00"
-    - "Tuesday: 9:00 – 19:00"
-    - "Wednesday: 9:00 – 19:00"
-    - "Thursday: 9:00 – 19:00"
-    - "Friday: 9:00 – 19:00"
-    - "Saturday: 9:00 – 19:00"
-    - "sunday: 9:00 – 19:00"
-    
+    - "Monday: 8:00 AM – 5:00 PM"
+    - "Tuesday: 8:00 AM – 5:00 PM"
+    - "Wednesday: 8:00 AM – 5:00 PM"
+    - "Thursday: 8:00 AM – 5:00 PM"
+    - "Friday: 8:00 AM – 5:00 PM"
+    - "Saturday: 8:00 AM – 1:00 PM"    
 draft: false
 ---

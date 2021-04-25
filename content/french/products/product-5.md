@@ -1,6 +1,6 @@
 ---
 title: "Redmi Watch"
-date: 2019-10-17T11:22:16+06:00
+date: 2021-04-21T11:22:16+06:00
 image: "images/showcase/showcase-5.png"
 images: 
   - "images/showcase/showcase-5.png"

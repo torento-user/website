@@ -1,6 +1,6 @@
 ---
 title: "Galaxy Watch"
-date: 2019-10-17T11:22:16+06:00
+date: 2021-04-21T11:22:16+06:00
 images: 
   - "images/showcase/showcase-2.png"
   - "images/showcase/showcase-1.png"
