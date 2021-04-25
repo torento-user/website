@@ -4,7 +4,8 @@ description : "this is a meta description"
 
 office:
   title : "Headquarters"
-  mobile : "+94 112 972433, +94 115 670231"
+  phone : "+94 112 972433, +94 115 670231"
+  fax : "+94 112 972433"
   email : "info@torento.biz"
   location : "2A Weboda East, Weboda, Sri Lanka, 11858"
   content : "We are located at:"
