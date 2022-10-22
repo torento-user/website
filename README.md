@@ -1,114 +1,134 @@
-# Easy Setup (Hugo + Netlify + Forestry)
-Build your website with kross hugo theme by following this easy steps (No Coding Required)
-
-<a href="http://bit.ly/meghna-hugo-installation" target="_blank" title="meghna hugo installation" rel="nofollow"><img width="100%" src="https://user-images.githubusercontent.com/37659754/70844354-4028be00-1e6a-11ea-8d84-02e9a25e7db8.png"></a>
-
-In this tutorial we will show you to make your website live without buying any hosting and touching a single line of code. We made this tutorial based on [meghna hugo](https://github.com/themefisher/meghna-hugo) but you can setup everything like this.
-
-### What you need !!
-
-1. Git account (Ex: Github, Gitlab etc ) . In our case we use github.
-2. [Netlify](https://bit.ly/netlify-account) account to host files and add custom domain .
-3. [Forestry](https://bit.ly/forestry-account) account to maintain whole project without code.
+<h1 align=center>Vex Hugo</h1> 
+<p align=center>Vex is a clean multipurpose e-commerce theme that makes building your first online store easier than ever. </p>
+<h2 align="center"> <a target="_blank" href="https://demo.gethugothemes.com/vex" rel="nofollow">Demo</a> | <a  target="_blank" href="https://pagespeed.web.dev/report?url=https%3A%2F%2Fdemo.gethugothemes.com%2Fvex%2Fsite%2F&form_factor=desktop">Page Speed (97%)</a></h2>
 
 
-### Step 1 : Fork or Clone repository
 
-First we will fork this [vex hugo](https://github.com/themefisher/vex-hugo) template.
+<p align=center>
+  <a href="https://github.com/gohugoio/hugo/releases/tag/v0.62.2" alt="Contributors">
+    <img src="https://img.shields.io/static/v1?label=min-HUGO-version&message=0.62.2&color=f00&logo=hugo" />
+  </a>
 
-### Step 2 : Add your repository in Forestry
+  <a href="https://github.com/themefisher/vex-hugo/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/themefisher/vex-hugo" alt="license"></a>
 
-Go to your [forestry](https://bit.ly/forestry-account)  account and click on `import your site now`. declare your config.toml file [`exampleSite`] and fill up basic settings .
+  <img src="https://img.shields.io/github/languages/code-size/themefisher/vex-hugo" alt="code size">
 
-**Or just click this button for one click installation** [![import to forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://app.forestry.io/quick-start?repo=themefisher/vex-hugo&engine=hugo&version=0.73.0&config=exampleSite)
+  <a href="https://github.com/themefisher/vex-hugo/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/themefisher/vex-hugo" alt="contributors"></a>
 
-Now mark everything as done, then go to configuration to change the base url . You can put any url but this have to similar as netlify . So for now put a name which you are going to put in netlify as netlify subdomain.
+  <a href="https://twitter.com/intent/follow?screen_name=gethugothemes">
+    <img src="https://img.shields.io/twitter/follow/gethugothemes?style=social&logo=twitter"
+      alt="follow on Twitter"></a>
+</p>
 
-### Step 3 : Setup and host website with Netlify
+---
 
-Here comes the last step . Go to your [netlify](https://bit.ly/netlify-account) account and click add new site . Choose your git repository to import your website in netlify .  And now you can see the forked `vex hugo` theme. select it and follow the steps. Then go to `site settings` for change the site name and put your subdomain name here what you put on forestry as base url. save it and go to `deploy` from top menu, Wait a while and click on `site preview` or just simply go to the subdomain you put as base url. **BOOM! Your site is live.** Now you can go to forestry and add, remove or customize every setting and content.
+<p align="center">
+  <img src="https://demo.gethugothemes.com/thumbnails/vex.png" alt="screenshot" width="100%">
+</p>
 
-> If you face any issue regarding the installation feel free to [open a new issue](https://github.com/themefisher/vex-hugo/issues)
+---
 
-## Table of Contents
+## Key Features
 
-- [Demo](#demo)
-- [Installation](#installation)
-- [Main Features](#main-features)
-- [What's New](#what's-new)
-- [Reporting Issues](#reporting-issues)
-- [Technical Support or Questions](#technical-support-or-questions-(paid))
-- [Licensing](#licensing)
-- [More Hugo Themes](https://themefisher.com/hugo-themes/)
+- Multiple language support (Fr, En)
+- Google analytics  support
+- CSS and JS bundle with hugo pipe
+- Netlify settings predefine
+- Forestry cms pre-configured
+- Contact form Support
+- Mailchimp integrate
+- Google page speed optimized
+- Open graph meta tag
+- Twitter card meta tag
 
-## Demo
+## Local development
 
-| Homepage  | Blog  | Product  | Contact  |
-|---|---|---|---|
-| ![Homepage](https://user-images.githubusercontent.com/58769763/87217772-ba70e080-c36e-11ea-8b7d-a0cf98191e84.png) | ![Blog](https://user-images.githubusercontent.com/58769763/87217775-be046780-c36e-11ea-8e10-acb45e54beaa.png) | ![product](https://user-images.githubusercontent.com/58769763/87217776-bfce2b00-c36e-11ea-891a-6f3157c35311.png) | ![contact](https://user-images.githubusercontent.com/58769763/87217777-c197ee80-c36e-11ea-8bd4-8b513cdebe78.png) |
+```bash
+# clone the repository
+git clone git@github.com:themefisher/vex-hugo.git
 
-[Live Demo](http://demo.themefisher.com/vex-hugo/).
-
-**The images are only for demonstration purpose, Please don't use those images.**
-
-## Installation
-At the top we have shown an easy hugo installation. but still if you think you want to go with the traditional way then use the following commands:
-
-**Note : You must use `hugo-extended` version to compile SCSS**
-
-```
-$ git clone git@github.com:themefisher/vex-hugo.git
+# cd in the project directory
 $ cd vex-hugo/exampleSite/
+
+# Start local dev server
 $ hugo server --themesDir ../..
 ```
 
+Or Check out [Full Documentation](https://docs.gethugothemes.com/vex/?ref=github).
 
-## Main features
+## Content Management System
 
-* Fully Responsive Ready.
-* Multilingual Support.
-* Powered by bootstrap 4 framework.
-* Product Showcase.
-* Product Details Page.
-* Snipcart Included.
-* Blog Post.
-* Contact Form.
-* Email Subscription Section.
-* Documented codes.
+[![import to
+Forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://app.forestry.io/quick-start?repo=themefisher/vex-hugo&engine=hugo&version=0.87.0)
 
-## What's New
+This project has been pre-configured to work with [Forestry](https://forestry.io) a git-based CMS, [import your
+repository in Forestry](https://app.forestry.io/quick-start?repo=themefisher/vex-hugo&engine=hugo&version=0.87.0) and
+you will be able to edit and preview your site ✨.
 
-* Multilingual Support.
-* Product Details Page.
-* Snipcart Included.
-* Blog Post.
-* Contact Form.
+Any changes you make in Forestry will be committed back to the repo and deployed if you use [Netlify](#netlify).
 
-## Icons
+## Deployment and hosting
 
-To view the catalog of available themefisher-font icons, visit https://themefisher.github.io/themefisher-font/
+[![Deploy to
+Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/themefisher/vex-hugo)
 
+Follow the steps.
+
+## Prefer a video? (Hugo + Netlify + Forestry)
+
+Build your website with **Vex Hugo** theme by following these easy steps (No Coding Required!)
+[Video Tutorial](https://youtu.be/ResipmZmpDU).
+
+<!-- reporting issue -->
 ## Reporting Issues
 
-We use GitHub Issues as the official bug tracker for the Vex Template. Please Search [existing issues](https://github.com/themefisher/vex-hugo/issues). It’s possible someone has already reported the same problem.
-If your problem or idea is not addressed yet, [open a new issue](https://github.com/themefisher/vex-hugo/issues)
+We use GitHub Issues as the official bug tracker for the Vex Template. Please Search [existing
+issues](https://github.com/themefisher/vex-hugo/issues). Someone may have already reported the same problem.
+If your problem or idea has not been addressed yet, feel free to [open a new
+issue](https://github.com/themefisher/vex-hugo/issues).
 
-## Technical Support or Questions (Paid)
+## Submit Your Website To Our Showcase
 
-If you have questions or need help integrating the product please [contact us](mailto:mehedi@themefisher.com) instead of opening an issue.
+Are you using Vex Hugo theme? Submit it to our [showcase](https://gethugothemes.com/showcase). 
 
-## Licensing
-Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)
+Our showcase aims to demonstrate to the world what amazing websites people like you have created utilizing our Hugo themes and to show that Hugo has tremendous capabilities as a Static Site Generator. 
+
+View all the websites powered by Vex Hugo from [here](https://gethugothemes.com/showcase?theme=vex). 
+
+[Submit](https://gethugothemes.com/showcase?submit=show) your Vex Hugo powered website.
+
+<!-- licence -->
+## License
+
+Copyright &copy; Designed by [Themefisher](https://themefisher.com) & Developed by
+[Gethugothemes](https://gethugothemes.com)
 
 **Code License:** Released under the [MIT](https://github.com/themefisher/vex-hugo/blob/master/LICENSE) license.
 
-**Image license:** The images are only for demonstration purposes. They have their own licence, we don't have permission to share those image.
+**Image license:** The images are only for demonstration purposes. They have their licenses. We don't have permission to
+share those images.
+
+<!-- resources -->
+## Special Thanks
+
+- [Bootstrap](https://getbootstrap.com)
+- [Jquery](https://jquery.com)
+- [Slick Slider](https://kenwheeler.github.io/slick/)
+- [Google Fonts](https://fonts.google.com/)
+- [All Contributors](https://github.com/themefisher/vex-hugo/graphs/contributors)
 
 ## Hire Us
-We are available for Hiring of your next HUGO project. Drop Us a mail [mehedi@themefisher.com](mailto:mehedi@themefisher.com)
 
-## Premium Themes
+Besides developing unique, blazing-fast Hugo themes, we also provide customized services. We specialize in creating affordable, high-quality static websites based on Hugo.
 
-| [![Mega-Bundle-HUGO](https://gethugothemes.com/wp-content/uploads/edd/2019/09/Mega-Bundle-HUGO.png)](https://themefisher.com/products/hugo-mega-bundle/) | [![Adrian](https://gethugothemes.com/wp-content/uploads/edd/2019/12/adrian-ecommerce-template.jpg)](https://gethugothemes.com/products/adrian/) | [![influencer](https://gethugothemes.com/wp-content/uploads/2019/11/Influencer.png)](https://gethugothemes.com/products/influencer-hugo/) |
+If you need to customize the theme or complete website development from scratch, you can hire us. **Check Our
+[Services](https://gethugothemes.com/services/?utm_source=vex_github&utm_medium=referral&utm_campaign=github_theme_readme)**
+
+<!-- premium themes -->
+## Premium Themes By Us
+
+| [![Mega-Bundle-HUGO](https://demo.gethugothemes.com/thumbnails/bundle.png?)](https://gethugothemes.com/bundle/?utm_source=vex_github&utm_medium=referral&utm_campaign=github_theme_readme) | [![Hargo](https://demo.gethugothemes.com/thumbnails/hargo.png)](https://gethugothemes.com/products/hargo/) | [![Loogbook](https://demo.gethugothemes.com/thumbnails/logbook.png)](https://gethugothemes.com/products/logbook/) |
 |:---:|:---:|:---:|
-| **Hugo Mega Bundle**  | **Adrian**  | **Influencer**  |
+| **Get 55+ Premium Hugo Themes Bundle** | **Hargo** | **logbook** |
