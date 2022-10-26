@@ -1,6 +1,6 @@
 ---
 title: "About Us"
-date: 2021-04-21T11:22:16+06:00
+date: 2022-10-21T11:22:16+06:00
 image: "images/torento/image-1.jpeg"
 description : "About Torento Engineering Private Ltd"
 draft: false
