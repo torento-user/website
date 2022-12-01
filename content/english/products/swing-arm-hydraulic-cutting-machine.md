@@ -1,20 +1,20 @@
 ---
 title: "Swing Arm Hydraulic Cutting Machine"
+category: "cutting"
 date: 2022-12-01T11:24:18+06:00
-images: 
+images:
   - "images/torento/swing-arm-hydraulic-cutting-machine-1.jpg"
 
-
 # meta description
-description : "Model: 308/8 (SP/TP)"
+description: "Model: 308/8 (SP/TP)"
 
 # product Price
 price: "11111.11"
 discount_price: "100000.00"
 
 # product variation
-colors : ["red","gray"]
-sizes : ["8 Ton Single Phase","8 Ton 3 Phase"]
+colors: ["red", "gray"]
+sizes: ["8 Ton Single Phase", "8 Ton 3 Phase"]
 
 draft: false
 ---
