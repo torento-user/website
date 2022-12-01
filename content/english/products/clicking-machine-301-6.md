@@ -1,7 +1,8 @@
 ---
 title: "Clicking Machine 301/6TP"
 date: 2021-04-24T11:24:18+06:00
-# category: "Clicking Machine"
+# Product Category
+category: "Clicking Machines"
 images:
   - "images/torento/clicking-machine-6T.png"
 

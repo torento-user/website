@@ -1,7 +1,7 @@
 ---
 title: "Cutting Machine 308/8TP"
 date: 2021-04-24T11:22:18+06:00
-category: "Cutting Machine"
+category: "Cutting Machines"
 images:
   - "images/torento/cutting-machine-8T.png"
   - "images/torento/cutting-machine-16T.png"
