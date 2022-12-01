@@ -1,6 +1,6 @@
 ---
 title: "Swing Arm Hydraulic Cutting Machine"
-category: "cutting"
+category: "Cutting Machine"
 date: 2022-12-01T11:24:18+06:00
 images:
   - "images/torento/swing-arm-hydraulic-cutting-machine-1.jpg"

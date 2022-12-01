@@ -1,7 +1,7 @@
 ---
 title: "Cutting Machine 308/20TP"
 date: 2021-04-24T11:22:16+06:00
-category: "swing-arm"
+category: "Cutting Machine"
 images:
   - "images/torento/cutting-machine-20T.png"
   - "images/torento/cutting-machine-16T.png"
