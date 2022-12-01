@@ -6,7 +6,7 @@ images:
 
 
 # meta description
-description : "Model : 308/8 (SP / TP)"
+description : "Model: 308/8 (SP/TP)"
 
 # product Price
 price: "11111.11"
@@ -14,7 +14,7 @@ discount_price: "100000.00"
 
 # product variation
 colors : ["red","gray"]
-sizes : 8T (SP / TP)
+sizes : ["8 Ton Single Phase","8 Ton 3 Phase"]
 
 draft: false
 ---
