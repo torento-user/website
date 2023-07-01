@@ -1,5 +1,5 @@
 ################################### Default Configuration ############################
-baseurl = "https://demo.torento.biz"
+baseurl = "https://www.torento.biz"
 title = "Torento Engineering (PVT) Ltd"
 # theme = "vex-hugo"
 # post excert
