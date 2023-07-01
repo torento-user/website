@@ -1,8 +1,8 @@
 ############################# banner ############################
 banner:
   enable: true
-  title: "Believe in Technology, Make the change"
-  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima hic at, nostrum nihil!"
+  title: "Discover Our Cutting-Edge Solutions"
+  content: "Explore our wide range of innovative and high-quality products that cater to diverse industries. Browse all our products now and unlock new possibilities for your business."
   image: "images/torento/office.jpeg"
   button:
     enable: true
@@ -18,36 +18,36 @@ features:
   # feature at the left of the image
   left_side:
     # feature item loop
-    - title: "Smooth Touch"
+    - title: "Cutting-Edge Technology"
       icon: "tf-ion-ios-alarm-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+      content: "Our products incorporate the latest advancements in technology, ensuring efficiency, precision, and superior performance in your manufacturing processes"
 
       # feature item loop
-    - title: "Elegant Design"
+    - title: "Customization Options"
       icon: "tf-ion-ios-bell-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+      content: "We understand that each business has unique requirements. That's why we offer customizable solutions tailored to your specific needs, providing you with the flexibility to optimize your operations"
 
       # feature item loop
-    - title: "Easy Pricing"
+    - title: "Reliable Quality"
       icon: "tf-ion-ios-cart-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+      content: "We maintain stringent quality control measures to deliver products of exceptional quality. Our commitment to using premium materials and components guarantees durability and long-lasting performance"
 
   # feature at the right of the image
   right_side:
     # feature item loop
-    - title: "Smooth Touch"
+    - title: "Comprehensive Product Range"
       icon: "tf-ion-ios-alarm-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+      content: "From shoe-making machinery to equipment for headwear, apparels, packaging, and more, our extensive product range offers a one-stop solution for various industries, empowering you to find everything you need in one place"
 
       # feature item loop
-    - title: "Elegant Design"
+    - title: "Expert Guidance and Support"
       icon: "tf-ion-ios-bell-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+      content: "Our experienced team is dedicated to providing you with expert guidance and support throughout your journey. Whether you need assistance with installation, training, or troubleshooting, we are here to ensure your success"
 
       # feature item loop
-    - title: "Easy Pricing"
+    - title: "Competitive Pricing"
       icon: "tf-ion-ios-cart-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+      content: "We believe in offering value for your investment. Our competitive pricing structure ensures that you receive top-quality machinery and equipment at a fair and affordable price, maximizing your return on investment"
 
 ############################# promo ############################
 promo:
@@ -63,15 +63,13 @@ promo:
 ############################# About Product #######################
 about_product:
   enable: true
-  title: "Why Choose Apple Watch"
+  title: "Why Choose Torento Engineering"
   items:
     # about product item loop
     - image: "images/showcase/showcase-4.png"
-      title: "Lorem ipsum dolor sit amet."
+      title: "Unparalleled Expertise"
       content:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
-        sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
-        quas, quo harum deserunt consequatur cumque!"
+        "With over three decades of experience in the industry, Torento Engineering Private Ltd has established itself as a trusted leader. Our deep understanding of the market, coupled with our extensive knowledge and expertise, allows us to deliver cutting-edge solutions that meet and exceed customer expectations."
       button:
         enable: false
         label: "Check Features"
@@ -79,11 +77,9 @@ about_product:
 
     # about product item loop
     - image: "images/showcase/showcase-3.png"
-      title: "Lorem ipsum dolor sit amet."
+      title: "Customer-Centric Approach"
       content:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
-        sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
-        quas, quo harum deserunt consequatur cumque!"
+        "At Torento, we prioritize our customers and their success. We strive to build long-lasting partnerships by providing personalized attention, listening to their unique requirements, and offering customized solutions. Our dedicated team is committed to delivering exceptional service, timely support, and reliable after-sales assistance, ensuring a seamless experience throughout the entire journey."
       button:
         enable: false
         label: "Check Features"
@@ -96,7 +92,7 @@ products:
 
 ################################## Subscription ###################
 subscription:
-  enable: true
+  enable: false
   bg_image: "images/call-to-action.jpg"
   title: "Get Product Updates"
   content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
@@ -108,19 +104,19 @@ testimonial:
   title: "Products Review"
   testimonial_item:
     # testimonial item loop
-    - name: "Jonathon Andrew"
-      designation: "CEO, Themefisher"
+    - name: "John Smith"
+      designation: "CEO"
       image: "images/avater.png"
-      content: "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+      content: "We have been using Torento's shoe-making machinery for several years now, and we are extremely satisfied with their performance. The machines are technologically advanced, efficient, and have greatly enhanced our production capabilities. Torento truly delivers on their promise of quality and reliability."
 
     # testimonial item loop
-    - name: "Jonathon Andrew"
-      designation: "CEO, Themefisher"
+    - name: "Emily Johnson"
+      designation: "Operations Manager"
       image: "images/avater.png"
-      content: "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+      content: "We recently purchased Torento's packaging equipment for our manufacturing facility, and it has been a game-changer. The machines are user-friendly, highly efficient, and have significantly improved our packaging process. The support and assistance provided by the Torento team have been exceptional, making our experience truly outstanding."
 
     # testimonial item loop
-    - name: "Jonathon Andrew"
-      designation: "CEO, Themefisher"
+    - name: "David Rodriguez"
+      designation: "Owner"
       image: "images/avater.png"
-      content: "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+      content: "As a small-scale industrial entrepreneur, finding the right machinery that meets our specific requirements and fits our budget was a challenge. However, Torento's customizable solutions were exactly what we needed. Their team worked closely with us, understanding our needs and delivering a tailor-made machine that has transformed our production capabilities. We highly recommend Torento for their exceptional products and customer-centric approach."

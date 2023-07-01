@@ -6,4 +6,5 @@ description : "VIsion of Torento Engineering Private Ltd"
 draft: false
 ---
 
-To be the pioneer of manufacturing industrial machinery in the island by identifying and developing innovative products required by the industrial sector in Sri Lanka.
+Our vision is to lead the way in industrial machinery manufacturing on the island by continuously identifying and developing innovative products that cater to the evolving needs of the industrial sector in Sri Lanka. We strive to be at the forefront of technological advancements, setting new benchmarks in quality, efficiency, and reliability.
+
