@@ -128,7 +128,7 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 # copyright
-copyright = "© 2022 Torento Engineering (PVT) Ltd"
+copyright = "© 2023 Torento Engineering (PVT) Ltd"
 
 
 ################################### French language #####################################
