@@ -19,39 +19,39 @@ features:
   left_side:
     # feature item loop
     - title: "Cutting-Edge Technology"
-      icon: "tf-ion-ios-alarm-outline"
+      icon: "tf-ion-ios-infinite-outline"
       content: "Our products incorporate the latest advancements in technology, ensuring efficiency, precision, and superior performance in your manufacturing processes"
 
       # feature item loop
     - title: "Customization Options"
-      icon: "tf-ion-ios-bell-outline"
+      icon: "tf-ion-ios-personadd-outline"
       content: "We understand that each business has unique requirements. That's why we offer customizable solutions tailored to your specific needs, providing you with the flexibility to optimize your operations"
 
       # feature item loop
     - title: "Reliable Quality"
-      icon: "tf-ion-ios-cart-outline"
+      icon: "tf-ion-ios-more-outline"
       content: "We maintain stringent quality control measures to deliver products of exceptional quality. Our commitment to using premium materials and components guarantees durability and long-lasting performance"
 
   # feature at the right of the image
   right_side:
     # feature item loop
     - title: "Comprehensive Product Range"
-      icon: "tf-ion-ios-alarm-outline"
+      icon: "tf-ion-ios-world-outline"
       content: "From shoe-making machinery to equipment for headwear, apparels, packaging, and more, our extensive product range offers a one-stop solution for various industries, empowering you to find everything you need in one place"
 
       # feature item loop
     - title: "Expert Guidance and Support"
-      icon: "tf-ion-ios-bell-outline"
+      icon: "tf-ion-ios-help-outline"
       content: "Our experienced team is dedicated to providing you with expert guidance and support throughout your journey. Whether you need assistance with installation, training, or troubleshooting, we are here to ensure your success"
 
       # feature item loop
     - title: "Competitive Pricing"
-      icon: "tf-ion-ios-cart-outline"
+      icon: "tf-ion-ios-pricetags-outline"
       content: "We believe in offering value for your investment. Our competitive pricing structure ensures that you receive top-quality machinery and equipment at a fair and affordable price, maximizing your return on investment"
 
 ############################# promo ############################
 promo:
-  enable: true
+  enable: false
   image: "images/torento/EV-3.png"
   title: "Designed by professional , the benefit for creative gigs"
   content:
