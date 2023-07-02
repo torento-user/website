@@ -106,17 +106,17 @@ testimonial:
     # testimonial item loop
     - name: "John Smith"
       designation: "CEO"
-      # image: "images/avater.png"
+      image: "images/avatar-1.png"
       content: "We have been using Torento's shoe-making machinery for several years now, and we are extremely satisfied with their performance. The machines are technologically advanced, efficient, and have greatly enhanced our production capabilities. Torento truly delivers on their promise of quality and reliability."
 
     # testimonial item loop
     - name: "Emily Johnson"
       designation: "Operations Manager"
-      # image: "images/avater.png"
+      image: "images/avatar-2.png"
       content: "We recently purchased Torento's packaging equipment for our manufacturing facility, and it has been a game-changer. The machines are user-friendly, highly efficient, and have significantly improved our packaging process. The support and assistance provided by the Torento team have been exceptional, making our experience truly outstanding."
 
     # testimonial item loop
     - name: "David Rodriguez"
       designation: "Owner"
-      # image: "images/avater.png"
+      image: "images/avatar-3.png"
       content: "As a small-scale industrial entrepreneur, finding the right machinery that meets our specific requirements and fits our budget was a challenge. However, Torento's customizable solutions were exactly what we needed. Their team worked closely with us, understanding our needs and delivering a tailor-made machine that has transformed our production capabilities. We highly recommend Torento for their exceptional products and customer-centric approach."
