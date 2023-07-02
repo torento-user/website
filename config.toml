@@ -78,15 +78,15 @@ name = "Contact"
 url = "contact/"
 weight = 2
 
-[[menu.footer]]
-name = "Terms & Conditions"
-url = "terms-conditions/"
-weight = 3
-
-[[menu.footer]]
-name = "Privacy Policy"
-url = "privacy-policy/"
-weight = 4
+# [[menu.footer]]
+# name = "Terms & Conditions"
+# url = "terms-conditions/"
+# weight = 3
+# 
+# [[menu.footer]]
+# name = "Privacy Policy"
+# url = "privacy-policy/"
+# weight = 4
 
 
 ########################### Default parameters ##########################
