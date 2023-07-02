@@ -66,7 +66,7 @@ about_product:
   title: "Why Choose Torento Engineering"
   items:
     # about product item loop
-    - image: "images/showcase/showcase-4.png"
+    - image: "images/torento/clicking-machine-6T.png"
       title: "Unparalleled Expertise"
       content:
         "With over three decades of experience in the industry, Torento Engineering Private Ltd has established itself as a trusted leader. Our deep understanding of the market, coupled with our extensive knowledge and expertise, allows us to deliver cutting-edge solutions that meet and exceed customer expectations."
@@ -76,7 +76,7 @@ about_product:
         link: "#/"
 
     # about product item loop
-    - image: "images/showcase/showcase-3.png"
+    - image: "images/torento/cutting-machine-8T.png"
       title: "Customer-Centric Approach"
       content:
         "At Torento, we prioritize our customers and their success. We strive to build long-lasting partnerships by providing personalized attention, listening to their unique requirements, and offering customized solutions. Our dedicated team is committed to delivering exceptional service, timely support, and reliable after-sales assistance, ensuring a seamless experience throughout the entire journey."
