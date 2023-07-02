@@ -145,6 +145,6 @@ enableRobotsTXT = true
 
 # Sitemap
 [sitemap]
-  changefreq = 'always'
-  filename = 'sitemap.xml'
-  priority = 0.5
+changefreq = 'daily'
+filename = 'sitemap.xml'
+priority = 0.5
