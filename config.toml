@@ -139,3 +139,12 @@ copyright = "© 2023 Torento Engineering (PVT) Ltd"
 # weight = 2
 # # copyright
 # copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+
+# robots
+enableRobotsTXT = true
+
+# Sitemap
+[sitemap]
+  changefreq = 'always'
+  filename = 'sitemap.xml'
+  priority = 0.5
